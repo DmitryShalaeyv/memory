@@ -1,0 +1,22 @@
+html {
+  background: #fff;
+  font: 16px calibri, sans-serif;
+  cursor: default;
+}
+span {
+  color:red;
+}
+div#button {
+  margin-top: 10px;
+}
+#wrapper {
+  width: 500px;
+  margin: auto;
+}
+div#box {
+  width: 284px;
+  height: 384px;
+}
+img {
+  cursor: pointer; 
+}
